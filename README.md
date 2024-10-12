@@ -21,7 +21,7 @@ Below are the **plots and insights** you will find in this project:
 3. **Distribution of Yellow and Red Cards**  
    - Comparing the number of yellow and red cards per team.  
 
-4. **Scoring Attempts vs. On-target Attempts (Scatter Plot)**  
+4. **Scoring Attempts vs. On-target Attempts**  
    - Analyzing the correlation between total scoring attempts and those on-target, measuring shooting efficiency.  
 
 5. **Top 10 Teams by Corners Taken**  
