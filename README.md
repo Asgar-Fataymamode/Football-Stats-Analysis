@@ -1,7 +1,7 @@
 # ⚽ Football Statistics Analysis  
 
 This project is a **comprehensive exploration of football statistics** across multiple seasons, visualized using Python and Jupyter Notebooks. 
-It provides valuable insights into team performances, card distributions, scoring efficiency, and much more. 
+It provides valuable insights into team performances, card distributions, scoring efficiency, and much more.
 If you're a football fan or a data enthusiast, this project will be both **engaging** and **insightful**. 🏟️📊  
 
 ---
